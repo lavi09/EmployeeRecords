@@ -1,0 +1,52 @@
+﻿  Database.cpp
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(11): error C2143: syntax error: missing ';' before '&'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(11): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(12): error C2059: syntax error: '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(12): error C2143: syntax error: missing ';' before '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(12): error C2447: '{': missing function header (old-style formal list?)
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(21): error C2143: syntax error: missing ';' before '&'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(21): error C2086: 'int EmployeeRecords::Employee': redefinition
+  c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(11): note: see declaration of 'EmployeeRecords::Employee'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(21): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(22): error C2059: syntax error: '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(22): error C2143: syntax error: missing ';' before '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(22): error C2447: '{': missing function header (old-style formal list?)
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(33): error C2143: syntax error: missing ';' before '&'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(33): error C2086: 'int EmployeeRecords::Employee': redefinition
+  c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(11): note: see declaration of 'EmployeeRecords::Employee'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(33): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(34): error C2059: syntax error: '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(34): error C2143: syntax error: missing ';' before '{'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(34): error C2447: '{': missing function header (old-style formal list?)
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(46): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(47): error C2270: 'displayAll': modifiers not allowed on nonmember functions
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(48): error C2065: 'mEmployees': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(49): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(49): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(50): error C2065: 'employee': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(53): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(54): error C2270: 'displayCurrent': modifiers not allowed on nonmember functions
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(55): error C2065: 'mEmployees': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(56): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(56): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(57): error C2065: 'employee': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(59): error C2065: 'employee': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(63): error C2653: 'Database': is not a class or namespace name
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(64): error C2270: 'displayFormer': modifiers not allowed on nonmember functions
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(65): error C2065: 'mEmployees': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(66): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(66): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(67): error C2065: 'employee': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(69): error C2065: 'employee': undeclared identifier
+c:\users\administrator\source\repos\employeerecords\employeerecords\database.cpp(9): fatal error C1075: '{': no matching token found
+  Employee.cpp
+c:\users\administrator\source\repos\employeerecords\employeerecords\employee.cpp(26): error C2143: syntax error: missing ';' before '}'
+c:\users\administrator\source\repos\employeerecords\employeerecords\employee.cpp(50): error C2572: 'EmployeeRecords::Employee::promote': redefinition of default argument: parameter 1
+  c:\users\administrator\source\repos\employeerecords\employeerecords\employee.h(25): note: see declaration of 'EmployeeRecords::Employee::promote'
+  Generating Code...
